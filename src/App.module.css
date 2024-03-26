@@ -1,0 +1,8 @@
+.section01{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 2vw;
+  width: 100%;
+  height: auto;
+}
