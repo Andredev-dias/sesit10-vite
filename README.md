@@ -12,3 +12,7 @@ Currently, two official plugins are available:
 - npm create vite@latest nomeDoProjeto -- --template react (aqui cria o projeto em vite co react)
 - npm install (instala a pasta node-modules no proejto)
 - npm run dev (inicia o projeto no browser)
+
+- conceitos basicos
+componentes
+propriedades
