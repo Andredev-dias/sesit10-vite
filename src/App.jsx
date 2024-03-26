@@ -5,7 +5,6 @@ import img01 from "./assets/imgs/foto1.jpg"
 import img02 from "./assets/imgs/foto2.jpg"
 import img03 from "./assets/imgs/foto3.jpg"
 
-
 function App() {
 
   return (
