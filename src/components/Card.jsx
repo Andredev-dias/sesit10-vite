@@ -1,15 +1,15 @@
 import style from './Card.module.css'
 
-export default function Card(props){
+export default function Card({title, image, text1, text2}){
     return(
         <div className={style.card}>
-            <h2>{props.title}</h2>
-            <img src={props.image}
-                 alt={props.title}
+            <h2>{title}</h2>
+            <img src={image}
+                 alt={title}
                  width={200}
                  height="auto"/>
-            <p>{props.text1}</p>
-            <p>{props.text2}</p>
+            <p>{text1}</p>
+            <p>{text2}</p>
         </div>
     )
 }

@@ -1,6 +1,7 @@
 import { Tilt } from 'react-tilt'
 
 import Card from './components/Card'
+import Menu from './components/Menu'
 import img01 from "./assets/imgs/foto1.jpg"
 import img02 from "./assets/imgs/foto2.jpg"
 import img03 from "./assets/imgs/foto3.jpg"
@@ -22,6 +23,9 @@ function App() {
   }
   
   return (
+    <>
+    <Menu/>
+    
     <div className={style.section01}>
       <Tilt options={defaultOptions} style={{ height: 250, width: 250 }}>
         <Card 
@@ -53,6 +57,7 @@ function App() {
      
      
       </div>
+      </>
       
   )
 }
