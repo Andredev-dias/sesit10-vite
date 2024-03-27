@@ -6,6 +6,7 @@ import {
 } from "react-router-dom";
 
 import App from './App.jsx'
+import { Calc } from './Calc.jsx';
 import { Contact } from './Contact.jsx';
 
 import './index.css'
@@ -19,6 +20,10 @@ const router = createBrowserRouter([
     path: "/contact",
     element:  <Contact/>,
   },
+  {
+    path: "/calc",
+    element: <Calc/>,
+  }
 ]);
 
 ReactDOM.createRoot(document.getElementById('root')).render(

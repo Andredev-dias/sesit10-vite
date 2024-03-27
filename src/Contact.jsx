@@ -6,13 +6,15 @@ import Menu from "./components/Menu"
 
 import { MapContainer, TileLayer, Marker, Popup } from 'react-leaflet'
 
+import style from './Contact.module.css'
+
 export const Contact = () => {
     const geoData = ({lat: -25.4249668 , lng: -49.2748809})
     const position = [-25.4249668,-49.2748809]
     return(
         <>
         <Menu/>
-        <div>
+        <div className={style.sectionContact}>
             <h1>Contato</h1>
             <div>
                 <h2>Mapa</h2>

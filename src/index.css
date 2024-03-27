@@ -11,5 +11,22 @@
 body{
   background-color: var(--bg);
   color: var(--text);
+  font-family: "Roboto", sans-serif;
+}
+
+.leaflet-control-attribution{
+  display: none;
+}
+
+a{
+  text-decoration: none;
+  color: #ffff;
+  opacity: 0.8;
+  font-size: 1.2rem;
+}
+
+a:hover{
+  opacity: 1;
+  text-shadow:1px 1px 5px rgb(208, 1, 255) ;
 }
 

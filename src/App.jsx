@@ -53,6 +53,136 @@ function App() {
           text2="Colombo/PR"
           />
       </Tilt>
+      <Tilt options={defaultOptions} style={{ height: 250, width: 250 }}>
+        <Card 
+        title="Paisagem 01"
+        image={img01}
+        text1="descricao da paisagem 01"
+        text2="Curitiba/PR"
+        />
+      </Tilt>
+
+      <Tilt options={defaultOptions} style={{ height: 250, width: 250 }}>
+      <Card 
+        title="Paisagem 02"
+        image={img02}
+        text1="descricao da paisagem 02"
+        text2="Guaratuba/PR"
+        />
+      </Tilt>
+      
+      <Tilt options={defaultOptions} style={{ height: 250, width: 250 }}>
+      <Card 
+          title="Paisagem 03"
+          image={img03}
+          text1="descricao da paisagem 03"
+          text2="Colombo/PR"
+          />
+      </Tilt>
+      <Tilt options={defaultOptions} style={{ height: 250, width: 250 }}>
+        <Card 
+        title="Paisagem 01"
+        image={img01}
+        text1="descricao da paisagem 01"
+        text2="Curitiba/PR"
+        />
+      </Tilt>
+
+      <Tilt options={defaultOptions} style={{ height: 250, width: 250 }}>
+      <Card 
+        title="Paisagem 02"
+        image={img02}
+        text1="descricao da paisagem 02"
+        text2="Guaratuba/PR"
+        />
+      </Tilt>
+      
+      <Tilt options={defaultOptions} style={{ height: 250, width: 250 }}>
+      <Card 
+          title="Paisagem 03"
+          image={img03}
+          text1="descricao da paisagem 03"
+          text2="Colombo/PR"
+          />
+      </Tilt>
+      <Tilt options={defaultOptions} style={{ height: 250, width: 250 }}>
+        <Card 
+        title="Paisagem 01"
+        image={img01}
+        text1="descricao da paisagem 01"
+        text2="Curitiba/PR"
+        />
+      </Tilt>
+
+      <Tilt options={defaultOptions} style={{ height: 250, width: 250 }}>
+      <Card 
+        title="Paisagem 02"
+        image={img02}
+        text1="descricao da paisagem 02"
+        text2="Guaratuba/PR"
+        />
+      </Tilt>
+      
+      <Tilt options={defaultOptions} style={{ height: 250, width: 250 }}>
+      <Card 
+          title="Paisagem 03"
+          image={img03}
+          text1="descricao da paisagem 03"
+          text2="Colombo/PR"
+          />
+      </Tilt>
+      <Tilt options={defaultOptions} style={{ height: 250, width: 250 }}>
+        <Card 
+        title="Paisagem 01"
+        image={img01}
+        text1="descricao da paisagem 01"
+        text2="Curitiba/PR"
+        />
+      </Tilt>
+
+      <Tilt options={defaultOptions} style={{ height: 250, width: 250 }}>
+      <Card 
+        title="Paisagem 02"
+        image={img02}
+        text1="descricao da paisagem 02"
+        text2="Guaratuba/PR"
+        />
+      </Tilt>
+      
+      <Tilt options={defaultOptions} style={{ height: 250, width: 250 }}>
+      <Card 
+          title="Paisagem 03"
+          image={img03}
+          text1="descricao da paisagem 03"
+          text2="Colombo/PR"
+          />
+      </Tilt>
+      <Tilt options={defaultOptions} style={{ height: 250, width: 250 }}>
+        <Card 
+        title="Paisagem 01"
+        image={img01}
+        text1="descricao da paisagem 01"
+        text2="Curitiba/PR"
+        />
+      </Tilt>
+
+      <Tilt options={defaultOptions} style={{ height: 250, width: 250 }}>
+      <Card 
+        title="Paisagem 02"
+        image={img02}
+        text1="descricao da paisagem 02"
+        text2="Guaratuba/PR"
+        />
+      </Tilt>
+      
+      <Tilt options={defaultOptions} style={{ height: 250, width: 250 }}>
+      <Card 
+          title="Paisagem 03"
+          image={img03}
+          text1="descricao da paisagem 03"
+          text2="Colombo/PR"
+          />
+      </Tilt>
   
      
      
