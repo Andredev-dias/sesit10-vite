@@ -1,13 +1,12 @@
 import 'leaflet/dist/leaflet.css';
 import 'leaflet-defaulticon-compatibility/dist/leaflet-defaulticon-compatibility.css';
 import 'leaflet-defaulticon-compatibility';
-
 import Menu from "./components/Menu"
 import { useState } from 'react';
-
 import { MapContainer, TileLayer, Marker, Popup } from 'react-leaflet'
-
 import style from './Contact.module.css'
+
+
 
 export const Contact = () => {
     const geoData = ({lat: -25.4249668 , lng: -49.2748809})
